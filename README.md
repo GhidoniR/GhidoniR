@@ -1,10 +1,16 @@
 👋 Hi, I’m Rebecca
 
-:woman_technologist: I'm a Physics of Data graduate with an interest in Earth science
+
+:woman_scientist: I'm a Phd student in "Future earth, cimate change and societal challenges"
+👩‍🎓: Master's degree in Physics of Data at University of Padua, Bachelor's degree in Physics at Universty of Modena and Reggio Emilia
+
+
+
+
 
 
 - 📫 How to reach me :
-  * ghidonirebecca@gmail.com
+  * rebecca.ghidoni2@unibo.it
   * https://www.linkedin.com/in/rebecca-ghidoni-44101b23a/
 
 <!---
