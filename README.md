@@ -2,6 +2,7 @@
 
 
 :woman_scientist: I'm a Phd student in "Future earth, cimate change and societal challenges"
+
 👩‍🎓: Master's degree in Physics of Data at University of Padua, Bachelor's degree in Physics at Universty of Modena and Reggio Emilia
 
 
